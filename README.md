@@ -3,6 +3,9 @@
 # Business Insights 360
 Analyzed global superstore data, created interactive dashboard using Power BI.
 
+![End to End Project - Power BI](https://github.com/namanmahesh52/End-to-End-Project-Power-BI/assets/147621241/d0128d7f-5012-4beb-801a-94450cbcb0e2)
+
+
 # Project Learnings :
 1. Created interactive dashboard to track and analyze global sales.
 2. Used complex parameters to drill down in worksheet and customization using filtersand slicers.
